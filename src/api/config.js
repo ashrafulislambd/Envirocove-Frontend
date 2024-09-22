@@ -1,4 +1,4 @@
 const config = {
-  api_url: import.meta.env.VITE_API,
+  api_url: "http://13.232.148.174:8000",
 };
 export { config };
